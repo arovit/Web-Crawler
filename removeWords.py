@@ -1,4 +1,4 @@
-jhdjhd#! /usr/bin/python
+#! /usr/bin/python
 
 import re
 
